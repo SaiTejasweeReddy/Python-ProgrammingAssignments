@@ -1,2 +1,3 @@
-# Python-ProgrammingAssignments
+# Python Programming InClass Exercises
+
 python
